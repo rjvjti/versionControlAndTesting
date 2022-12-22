@@ -1,0 +1,15 @@
+{
+  "name": "experiment4",
+  "version": "1.0.0",
+  "description": "Unit Testing Practicals for VC and T Lab",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "Raunak Joshi",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
